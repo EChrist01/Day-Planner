@@ -31,6 +31,7 @@ This application uses HTML, JQuery, CSS.
 Page link will open the website, 
 
 ## Demo.
+![Screenshot 2024-02-12 104137](https://github.com/EChrist01/Day-Planner/assets/146894896/3484ead0-b38e-4197-8a5a-321040a2d107)
 
 ## Questions
 Github profile: 
