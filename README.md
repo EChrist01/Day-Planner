@@ -28,7 +28,8 @@ THEN the saved events persist
 This application uses HTML, JQuery, CSS. 
 
 ## Usage Information.
-Page link will open the website, 
+Page link will open the website,
+https://echrist01.github.io/Day-Planner/
 
 ## Demo.
 ![Screenshot 2024-02-12 104137](https://github.com/EChrist01/Day-Planner/assets/146894896/3484ead0-b38e-4197-8a5a-321040a2d107)
